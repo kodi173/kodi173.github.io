@@ -1,0 +1,38 @@
+body{
+	.tab{
+		text-indent: 40px;
+	}
+	a{
+		color: #708090;
+	}
+	i{
+		font-size: 20px;
+	}
+	b{
+		color: #F0FFF0;
+		font: bold;
+	}
+	p{
+		color: #FFF8DC;
+	}
+	td{
+		color: #FFF8DC;
+	}
+	h1{
+	text-indent: 35px;
+	color: #F0FFF0;
+	font-size: 50px;
+}
+	h2{
+	text-indent: 20px;
+	color: #696969;
+	font-size: 25px;
+}
+c{
+	color: #DDA0DD;
+}
+	background-image: url('back.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
